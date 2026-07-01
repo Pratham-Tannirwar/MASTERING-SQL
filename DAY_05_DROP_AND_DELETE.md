@@ -1,6 +1,6 @@
 # 📅 Day X: DELETE and DROP Statement
 
-## 📖 Introduction
+## 📖 IntroductioN
 
 SQL provides different commands to remove data and database objects. The `DELETE` statement removes records from a table, whereas the `DROP` statement permanently removes an entire database object such as a table or database.
 
